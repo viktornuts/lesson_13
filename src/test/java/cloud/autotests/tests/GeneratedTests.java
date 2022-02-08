@@ -17,7 +17,7 @@ public class GeneratedTests extends TestBase {
     @DisplayName("Проверка банера главной страницы")
     void generatedTest() {
         step("open https://www.esphere.ru/", () -> {
-            open("https://www.esphere.ru/");
+            open("https://www.esphere.ru");
         });
 
         step("check banner", () -> {
@@ -30,7 +30,7 @@ public class GeneratedTests extends TestBase {
     @DisplayName("Проверка заголовка главной страницы")
     void titleTest() {
         step("Open url 'https://www.esphere.ru/'", () ->
-                open("https://www.esphere.ru/"));
+                open("https://www.esphere.ru"));
 
         step("Page title should have text 'СберКорус | КОРУС Консалтинг СНГ'", () -> {
             String expectedTitle = "СберКорус | КОРУС Консалтинг СНГ";
@@ -45,7 +45,7 @@ public class GeneratedTests extends TestBase {
     @DisplayName("Проверка ошибок в консоле")
     void consoleShouldNotHaveErrorsTest() {
         step("Open url 'https://www.esphere.ru/'", () ->
-                open("https://www.esphere.ru/"));
+                open("https://www.esphere.ru"));
 
         step("Console logs should not contain text 'SEVERE'", () -> {
             String consoleLogs = DriverUtils.getConsoleLogs();
