@@ -68,13 +68,13 @@
 
 ## :computer: Запуск тестов из терминала 
 
-### :heavy_check_mark: Локальный запуск тестов
+### Локальный запуск тестов
 
 ```bash
 gradle clean test
 ```
 
-### :heavy_check_mark: Удаленный запуск тестов
+### Удаленный запуск тестов
 
 ```bash
 gradle clean test 
@@ -87,7 +87,7 @@ gradle clean test
 -Dthreads=${THREADS}
 ```
 
-### :heavy_check_mark: Параметры сборки
+### Параметры сборки
 
 > <code>REMOTE_URL</code> – адрес удаленного сервера, на котором будут запускаться тесты.
 >
