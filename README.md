@@ -8,7 +8,7 @@
 >
 > :heavy_check_mark: [Запуск тестов из терминала](#computer-Запуск-тестов-из-терминала)
 >
-> :heavy_check_mark: [Запуск тестов в Jenkins](#-для-запуска-сборки-необходимо)
+> :heavy_check_mark: [Запуск тестов в Jenkins](#-запуск-тестов-в-jenkins)
 >
 > :heavy_check_mark: [Отчет о результатах тестирования в Allure Report](#-главная-страница-allure)
 > 
