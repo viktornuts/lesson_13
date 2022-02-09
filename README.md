@@ -10,7 +10,7 @@
 >
 > :heavy_check_mark: [Запуск тестов в Jenkins](#-запуск-тестов-в-jenkins)
 >
-> :heavy_check_mark: [Отчет о результатах тестирования в Allure Report](#-главная-страница-allure)
+> :heavy_check_mark: [Отчет о результатах тестирования в Allure Report](#-отчет-о-результатах-тестирования-в-allure-report)
 > 
 > :heavy_check_mark: [Интеграция с Allure TestOps](#-интеграция-с-allure-testops)
 > 
