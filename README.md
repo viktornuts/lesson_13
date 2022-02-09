@@ -14,7 +14,7 @@
 > 
 > :heavy_check_mark: [Интеграция с Allure TestOps](#-интеграция-с-allure-testops)
 > 
-> :heavy_check_mark: [Интеграция с Jira](#-jira)
+> :heavy_check_mark: [Интеграция с Jira](#-Интеграция-с-[jira])
 >
 > :heavy_check_mark: [Уведомления в Telegram с использованием бота](#-уведомления-в-telegram-с-использованием-бота)
 >
