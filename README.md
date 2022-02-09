@@ -8,13 +8,13 @@
 >
 > :heavy_check_mark: [Запуск тестов из терминала](#computer-Запуск-тестов-из-терминала)
 >
-> :heavy_check_mark: [Запуск тестов в Jenkins](Для-запуска-сборки-необходимо)
+> :heavy_check_mark: [Запуск тестов в Jenkins](#-для-запуска-сборки-необходимо)
 >
-> :heavy_check_mark: [Отчет о результатах тестирования в Allure Report](#-Главная-страница-Allure)
+> :heavy_check_mark: [Отчет о результатах тестирования в Allure Report](#-главная-страница-allure)
 > 
-> :heavy_check_mark: [Интеграция с Allure TestOps](#-Интеграция-с-Allure-TestOps)
+> :heavy_check_mark: [Интеграция с Allure TestOps](#-интеграция-с-allure-testops)
 > 
-> :heavy_check_mark: [Интеграция с Jira](#-Jira)
+> :heavy_check_mark: [Интеграция с Jira](#-jira)
 >
 > :heavy_check_mark: [Уведомления в Telegram с использованием бота](#-уведомления-в-telegram-с-использованием-бота)
 >
