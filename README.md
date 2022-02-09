@@ -1,12 +1,10 @@
 # Проект по автоматизации тестирования сайта СберКорус
 
-### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;:heavy_check_mark: [вход на Сайт] (https://www.esphere.ru/)
-
 ## :page_with_curl:	Содержание
 
 > :heavy_check_mark: [Технологии и инструменты](#technologist-технологии-и-инструменты)
 >
-> :heavy_check_mark: [Реализованы проверки](#:bookmark_tabs-реализованы-проверки)
+> :heavy_check_mark: [Реализованы проверки](#bookmark_tabs-реализованы-проверки)
 >
 > :heavy_check_mark: [Запуск тестов из терминала](#computer-тестов-из-терминала)
 >
