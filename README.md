@@ -6,11 +6,11 @@
 >
 > :heavy_check_mark: [Реализованы проверки](#bookmark_tabs-реализованы-проверки)
 >
-> :heavy_check_mark: [Запуск тестов из терминала](#-тестов-из-терминала)
+> :heavy_check_mark: [Запуск тестов из терминала](#computer-Запуск-тестов-из-терминала)
 >
-> :heavy_check_mark: [Запуск тестов в Jenkins](#-запуск-тестов-в)
+> :heavy_check_mark: [Запуск тестов в Jenkins](#-Для-запуска-сборки-необходимо)
 >
-> :heavy_check_mark: [Отчет о результатах тестирования в Allure Report](#-Отчет-о-результатах-тестирования-в)
+> :heavy_check_mark: [Отчет о результатах тестирования в Allure Report](#-Главная-страница-Allure)
 > 
 > :heavy_check_mark: [Интеграция с Allure TestOps](#-Интеграция-с-Allure-TestOps)
 > 
